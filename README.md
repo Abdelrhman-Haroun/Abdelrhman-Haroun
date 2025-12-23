@@ -21,7 +21,6 @@
 - 📫 How to reach me **abdelrhmanharoon34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
   <a href="https://x.com/abdelrhmanharo5" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -37,8 +36,6 @@
          height="30"
          width="40" />
   </a>
-</p>
-
 <a href="https://fb.com/https://www.facebook.com/abdulrhman.emad.796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdulrhman.emad.796" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/abdelrahman__haroun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdelrahman__haroun/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/abdelrhman_haroon..?csrf_token=1ae15989e6365ded993801f79b9f497b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abdelrhman_haroon..?csrf_token=1ae15989e6365ded993801f79b9f497b" height="30" width="40" /></a>
