@@ -3,7 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhman-haroun&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhman-haroun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-haroun" alt="abdelrhman-haroun" /></a> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrhman-haroun&show_icons=true&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=abdelrhman-haroun&theme=dark" />
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/https://x.com/abdelrhmanharo5" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/abdelrhmanharo5?logo=twitter&style=for-the-badge" alt="https://x.com/abdelrhmanharo5" /></a> </p>
 
@@ -14,8 +21,8 @@
 - 📫 How to reach me **abdelrhmanharoon34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/abdelrhmanharo5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/abdelrhmanharo5" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/abdelrhmanharo5" target="blank"><img alig
+<p align="left">n="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/abdelrhmanharo5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdelrahmanharounn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmanharounn" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/abdulrhman.emad.796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdulrhman.emad.796" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/abdelrahman__haroun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdelrahman__haroun/" height="30" width="40" /></a>
