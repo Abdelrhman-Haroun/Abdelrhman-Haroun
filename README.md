@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/https://x.com/abdelrhmanharo5" target="blank"><img alig
-<p align="left">n="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/abdelrhmanharo5" height="30" width="40" /></a>
+<p align="left">n="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/abdelrhmanharo5" height="30" width="40" /></p>
 <a href="https://linkedin.com/in/abdelrahmanharounn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmanharounn" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/abdulrhman.emad.796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdulrhman.emad.796" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/abdelrahman__haroun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdelrahman__haroun/" height="30" width="40" /></a>
