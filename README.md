@@ -49,4 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-haroun&show_icons=true&locale=en" alt="abdelrhman-haroun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-haroun&" alt="abdelrhman-haroun" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=abdelrhman-haroun&show_icons=true" /></p>
