@@ -8,9 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on <b><a href="https://github.com/Abdelrhman-Haroun/FriendFlow">Friend Flow</a></b>  
-- 🌱 Learning <b>SignalR</b> & <b>Angular</b>  
-- 📫 Reach me at <b>abdelrhmanharoon34@gmail.com</b>
+- 💻 Experienced in **.NET Core**, **Node.js**, **C#**, **SQL**, and **REST API** design  
+- 📊 Skilled in **database architecture** with performance optimization  
+- 🔒 Strong foundation in **clean code, SOLID principles, and secure coding practices**  
+- 🌱 Always learning and improving with a focus on **large-scale, high-performance projects**
 
 ---
 
