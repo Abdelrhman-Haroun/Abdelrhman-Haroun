@@ -25,6 +25,44 @@
 </p>
 
 ---
+<p align="center">
+  <!-- Email (colored) -->
+  <a href="mailto:abdelrhmanharoon34@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-colored.svg" height="30" width="40" alt="Email"/>
+  </a>
+  <!-- Twitter/X -->
+  <a href="https://x.com/abdelrhmanharo5" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="X"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/abdelrahmanharounn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/abdulrhman.emad.796" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/abdelrahman__haroun/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
+  </a>
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/abdelrhman_haroon" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" alt="Codeforces"/>
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/abdelrahman_haroon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/>
+  </a>
+</p>
+
+
+
+
+
+
+
+
 
 ### 🤝 Connect With Me
 <p align="center">
