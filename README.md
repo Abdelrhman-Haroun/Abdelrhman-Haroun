@@ -24,6 +24,9 @@
 
 ### 🤝 Connect With Me
 <p align="center">
+  <a href="mailto:abdelrhmanharoon34@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40"/>
+  </a>
   <a href="https://x.com/abdelrhmanharo5" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
   </a>
