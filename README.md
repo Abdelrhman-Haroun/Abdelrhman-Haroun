@@ -18,18 +18,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=abdelrhman-haroun&show_icons=true&theme=github_dark"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=REAL_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman-haroun&layout=compact&theme=github_dark"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=REAL_USERNAME&layout=compact&theme=github_dark&hide_border=true"
     alt="Top languages"
   />
 </p>
+
 
 ---
 
