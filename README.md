@@ -78,3 +78,101 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server"/>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Hi there, I'm Abdelrahman Aboelnaga 👋
+
+I'm a passionate **Backend Developer** specializing in **.NET** and **Node.js** technologies.  
+I focus on building scalable, efficient, and secure applications that deliver exceptional performance.  
+My expertise lies in creating robust backend systems that power seamless user experiences.
+
+## 🚀 About Me
+
+- 💻 Experienced in **.NET Core**, **Node.js**, **C#**, **SQL**, and **REST API** design  
+- 📊 Skilled in **database architecture** with performance optimization  
+- 🔒 Strong foundation in **clean code, SOLID principles, and secure coding practices**  
+- 🌱 Always learning and improving with a focus on **large-scale, high-performance projects**
+
+## 💻 Tech Stack
+
+### Core Technologies
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+
+### Databases & ORM
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-F37626?style=for-the-badge&logo=typeorm&logoColor=white)
+
+### Tools & Other
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmanharounn/)
+[![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdelrhmanharo5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrhmanharoon34@gmail.com)
+
+## 📄 My Resume
+
+[![CV](https://img.shields.io/badge/Download%20My%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/17oPbgFZVBnLfCZRgpZea1mu7rM6w9mRu/view?usp=sharing)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=aboelnaga128&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aboelnaga128&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aboelnaga128&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 📺 Featured Content
+
+### .NET Tutorials
+- **Building RESTful APIs with .NET Core**
+- **Authentication & Authorization in Modern Applications**
+- **Database Performance Optimization for Enterprise Systems**
+- **Clean Code & Best Practices for Scalable Backends**
+
+## 👀 Visitor Count
+
+<div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aboelnaga128&label=Profile%20views&color=0e75b6&style=flat" alt="aboelnaga128" /> </p>
+<p align="center">
+</div>
+
+---
+
+### Let's build something amazing together! 🚀
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aboelnaga128/aboelnaga128/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aboelnaga128/aboelnaga128/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aboelnaga128/aboelnaga128/output/pacman-contribution-graph.svg">
+</picture>
