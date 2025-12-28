@@ -141,6 +141,8 @@ My expertise lies in creating robust backend systems that power seamless user ex
 [![X (Twitter)](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdelrhmanharo5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrhmanharoon34@gmail.com)
 
+
+<p align="center"> <a href="https://linkedin.com/in/abdelrahmanharounn/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/abdelrhmanharo5" target="_blank"> <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /> </a> <a href="mailto:abdelrhmanharoon34@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /> </a> <a href="https://www.facebook.com/abdulrhman.emad.796" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" /> </a> <a href="https://www.instagram.com/abdelrahman__haroun/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /> </a> <a href="https://codeforces.com/profile/abdelrhman_haroon" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" /> </a> <a href="https://leetcode.com/u/abdelrahman_haroon/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /> </a> </p>
 ## 📄 My Resume
 
 [![CV](https://img.shields.io/badge/Download%20My%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/17oPbgFZVBnLfCZRgpZea1mu7rM6w9mRu/view?usp=sharing)
