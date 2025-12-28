@@ -98,15 +98,15 @@
 
 
 
-# Hi there, I'm Abdelrahman Aboelnaga 👋
+# Hi there, I'm Abdelrahman Haroun 👋
 
-I'm a passionate **Backend Developer** specializing in **.NET** and **Node.js** technologies.  
+I'm a passionate **Backend Developer** specializing in **.NET** technologies.  
 I focus on building scalable, efficient, and secure applications that deliver exceptional performance.  
 My expertise lies in creating robust backend systems that power seamless user experiences.
 
 ## 🚀 About Me
 
-- 💻 Experienced in **.NET Core**, **Node.js**, **C#**, **SQL**, and **REST API** design  
+- 💻 Experienced in **.NET Core**, **C#**, **SQL**, and **REST API** design  
 - 📊 Skilled in **database architecture** with performance optimization  
 - 🔒 Strong foundation in **clean code, SOLID principles, and secure coding practices**  
 - 🌱 Always learning and improving with a focus on **large-scale, high-performance projects**
@@ -115,7 +115,7 @@ My expertise lies in creating robust backend systems that power seamless user ex
 
 ### Core Technologies
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-6DA55F?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-6DA55F?style=for-the-badge&logo=angular&logoColor=red)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
